@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BD73457B19F993A400BDD946"
-               BuildableName = "IJMRandomName.app"
-               BlueprintName = "IJMRandomName"
-               ReferencedContainer = "container:IJMRandomName.xcodeproj">
+               BlueprintIdentifier = "BD7345B419F9977C00BDD946"
+               BuildableName = "IJMRandomNameExample.app"
+               BlueprintName = "IJMRandomNameExample"
+               ReferencedContainer = "container:IJMRandomNameExample.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BD73459419F993A400BDD946"
-               BuildableName = "IJMRandomNameTests.xctest"
-               BlueprintName = "IJMRandomNameTests"
-               ReferencedContainer = "container:IJMRandomName.xcodeproj">
+               BlueprintIdentifier = "BD7345CD19F9977C00BDD946"
+               BuildableName = "IJMRandomNameExampleTests.xctest"
+               BlueprintName = "IJMRandomNameExampleTests"
+               ReferencedContainer = "container:IJMRandomNameExample.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BD73459419F993A400BDD946"
-               BuildableName = "IJMRandomNameTests.xctest"
-               BlueprintName = "IJMRandomNameTests"
-               ReferencedContainer = "container:IJMRandomName.xcodeproj">
+               BlueprintIdentifier = "BD7345CD19F9977C00BDD946"
+               BuildableName = "IJMRandomNameExampleTests.xctest"
+               BlueprintName = "IJMRandomNameExampleTests"
+               ReferencedContainer = "container:IJMRandomNameExample.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BD73457B19F993A400BDD946"
-            BuildableName = "IJMRandomName.app"
-            BlueprintName = "IJMRandomName"
-            ReferencedContainer = "container:IJMRandomName.xcodeproj">
+            BlueprintIdentifier = "BD7345B419F9977C00BDD946"
+            BuildableName = "IJMRandomNameExample.app"
+            BlueprintName = "IJMRandomNameExample"
+            ReferencedContainer = "container:IJMRandomNameExample.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BD73457B19F993A400BDD946"
-            BuildableName = "IJMRandomName.app"
-            BlueprintName = "IJMRandomName"
-            ReferencedContainer = "container:IJMRandomName.xcodeproj">
+            BlueprintIdentifier = "BD7345B419F9977C00BDD946"
+            BuildableName = "IJMRandomNameExample.app"
+            BlueprintName = "IJMRandomNameExample"
+            ReferencedContainer = "container:IJMRandomNameExample.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BD73457B19F993A400BDD946"
-            BuildableName = "IJMRandomName.app"
-            BlueprintName = "IJMRandomName"
-            ReferencedContainer = "container:IJMRandomName.xcodeproj">
+            BlueprintIdentifier = "BD7345B419F9977C00BDD946"
+            BuildableName = "IJMRandomNameExample.app"
+            BlueprintName = "IJMRandomNameExample"
+            ReferencedContainer = "container:IJMRandomNameExample.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

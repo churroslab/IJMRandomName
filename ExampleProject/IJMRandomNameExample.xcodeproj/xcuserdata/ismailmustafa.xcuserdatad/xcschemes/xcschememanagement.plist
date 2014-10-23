@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>IJMRandomName.xcscheme</key>
+		<key>IJMRandomNameExample.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>BD73457B19F993A400BDD946</key>
+		<key>BD7345B419F9977C00BDD946</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>BD73459419F993A400BDD946</key>
+		<key>BD7345CD19F9977C00BDD946</key>
 		<dict>
 			<key>primary</key>
 			<true/>

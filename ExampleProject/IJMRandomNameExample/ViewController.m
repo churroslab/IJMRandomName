@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  IJMRandomName
+//  IJMRandomNameExample
 //
 //  Created by Ismail Mustafa on 10/23/14.
 //  Copyright (c) 2014 Mustafa Enterprises. All rights reserved.
@@ -17,10 +17,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
-    // Sample code
-    IJMRandomName *randomName = [IJMRandomName new];
-    NSString *name = [randomName getName];
+    IJMRandomName *random = [[IJMRandomName alloc] init];
+    NSString *name = [random getName];
     NSLog(@"%@", name);
 }
 
